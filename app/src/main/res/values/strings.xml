@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GistApp</string>
+    <string name="gist_owner_photo_content_description">Photo of the gist owner</string>
+    <string name="gist_favorite_content_description">Favorite button</string>
+    <string name="show_favorites_message">Favorites only</string>
+    <string name="no_internet_message">The app is running on offline mode. Maybe you check your internet connection?</string>
+    <string name="no_content_content_description">No content icon</string>
+    <string name="no_content_label">Nothing was found</string>
+    <string name="search_content_description">Search button</string>
+    <string name="search_field_hint">Search for a username</string>
+    <string name="search_action">Search</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="clear_action">Clear</string>
+    <string name="search_snack_bar">You are searching for %1$s</string>
+</resources>
